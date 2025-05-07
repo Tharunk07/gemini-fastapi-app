@@ -1,8 +1,8 @@
 ---
 title: Weather Application 🌦️
 emoji: 🌦️
-colorFrom: #FF6E00
-colorTo: #FFD200
+colorFrom: blue
+colorTo: green
 sdk: docker
 sdk_version: "3.11"
 app_file: main.py
