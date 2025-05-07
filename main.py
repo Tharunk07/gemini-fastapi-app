@@ -30,4 +30,4 @@ async def llm_chat(user_query):
 
 @app.get("/")
 async def home_page():
-    return JSONResponse("Welcome to the LLM API")
+    return JSONResponse("Welcome to the LLM API, New commit")
